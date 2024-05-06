@@ -1,5 +1,5 @@
 # Hi 👋, I'm Animesh Bhattacharjee
-**`Computer Science and Engineering @ BRAC University | Qualitry Assurance and Content Manager @ Nyntax`**
+**`Computer Science @ BRAC University | Qualitry Assurance and Content Manager @ Nyntax`**
 
 - 🔭 I’m currently working on [SoftCar](https://softcartech.com/) and [Zoey Travel](https://zoeytravel.com/)
 
