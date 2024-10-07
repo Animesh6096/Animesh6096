@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, DSA**
 
-- 📫 How to reach me **animesh.bhattacharjee@g.bracu.ac.bd**
+- 📫 How to reach me **animesh.bhattacharjee.jhalok@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/animesh-bhattacharjee-jhalok/)
 
