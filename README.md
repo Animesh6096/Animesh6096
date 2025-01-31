@@ -61,7 +61,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh6096&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Animesh6096&count_private=true&theme=tokyonight&showicons=true)]()
 
-<hr style="border: 1px solid #0e75b6;">
+<hr style="border: 2px solid #0e75b6;">
 
 ### Projects
 - **[SoftCar](https://softcartech.com/):** Worked to develop a vehicle management system with advanced tracking features.
