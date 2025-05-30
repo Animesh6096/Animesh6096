@@ -2,13 +2,21 @@
 **`CS Undergrad @ BRAC University`**  
 Building at the intersection of **AI, Dev, and Human Impact**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=30&fontAlignY=35" alt="banner"/>
-
 ---
 
 ### 🚀 About Me
 I’m a Computer Science student at BRAC University, passionate about **AI**, **Machine Learning**, and **full-stack development**.  
 I'm currently working on my **thesis in multilingual lip reading**, building tools for accessibility and real-time communication. I enjoy combining backend logic with frontend polish, and my teaching experience helps me simplify complex concepts.
+
+---
+
+### 📢 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23a020f0.svg?&style=flat-square&logo=internet-explorer&logoColor=white)](https://animeshbhattacharjeeofficial.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-bhattacharjee-jhalok/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/animesh.bhattacharjee.6096)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Animesh6096)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:animesh.bhattacharjee.jhalok@gmail.com)
 
 ---
 
@@ -22,7 +30,7 @@ I'm currently working on my **thesis in multilingual lip reading**, building too
 
 ### 🧠 Projects & Research
 
-**🧪 Thesis:**  
+**🔪 Thesis:**  
 `Adaptive Self-Supervision for Cross-Language Generalization in Multilingual Conformer-Based Visual Speech Recognition`  
 > Real-time, language-agnostic lip-reading system for accessibility and communication.
 
@@ -40,7 +48,24 @@ A book-swapping platform with Django backend and complete database design (ER/EE
 
 ---
 
-### 💬 Ask Me About
+### 🎓 Education & Certs
+- 🎓 **BRAC University**, BSc in CSE (3.60 CGPA, graduating Sep 2025)
+- 📱 **App Development Certification** – Flutter, Dart, Android Studio (Residential Semester)
+- 🤖 **ML A-Z™** – Udemy
+
+---
+
+### 🌟 Roles & Activities
+- 👤 **Former QA & Content Manager** – Nyntax (Feb 2023 - Oct 2024)  
+  Improved mobile/web app UX through testing, bug tracking, and UI/UX feedback.
+- 🎨 **Marketing & Design Executive** – BRACU Art & Photography Society  
+- 🔬 **Research & Development Executive** – BRACU Research for Development  
+- 🎤 Physics Mentor – Pangeree Coaching & Limon Education Care  
+- 📍 Volunteer – BRACU Office of Co-curricular Activities
+
+---
+
+### 🔊 Ask Me About
 - Python, DSA, Git, APIs, MongoDB  
 - TensorFlow, Flask, Linux, Firebase  
 - UI/UX design with Figma and Adobe tools
@@ -51,31 +76,6 @@ A book-swapping platform with Django backend and complete database design (ER/EE
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,django,flask,mongodb,mysql,git,linux,figma,vscode,tensorflow" />
 </p>
-
----
-
-### 🎓 Education & Certs
-- 🎓 **BRAC University**, BSc in CSE (3.60 CGPA, graduating Sep 2025)
-- 📱 **App Development Certification** – Flutter, Dart, Android Studio (Residential Semester)
-- 🤖 **ML A-Z™** – Udemy
-
----
-
-### 🏆 Roles & Activities
-- 🖼️ **Marketing & Design Executive** – BRACU Art & Photography Society  
-- 🧪 **Research & Development Executive** – BRACU Research for Development  
-- 🎤 Physics Mentor – Pangeree Coaching & Limon Education Care  
-- 🎗️ Volunteer – BRACU Office of Co-curricular Activities
-
----
-
-### 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23a020f0.svg?&style=flat-square&logo=internet-explorer&logoColor=white)](https://animeshbhattacharjeeofficial.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-bhattacharjee-jhalok/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/animesh.bhattacharjee.6096)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Animesh6096)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:animesh.bhattacharjee.jhalok@gmail.com)
 
 ---
 
