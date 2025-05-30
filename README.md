@@ -71,6 +71,7 @@ A book-swapping platform with Django backend and complete database design (ER/EE
 
 ### 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23a020f0.svg?&style=flat-square&logo=internet-explorer&logoColor=white)](https://animeshbhattacharjeeofficial.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-bhattacharjee-jhalok/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/animesh.bhattacharjee.6096)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Animesh6096)
