@@ -4,6 +4,10 @@ Building at the intersection of **AI, Dev, and Human Impact**
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=animesh6096&theme=github-dark&hide_border=true&area=true" alt="My GitHub Activity Graph" width="700" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.3);" />
+</div>
+
 ### 🚀 About Me
 I’m a Computer Science student at BRAC University, passionate about **AI**, **Machine Learning**, and **full-stack development**.  
 I'm currently working on my **thesis in multilingual lip reading**, building tools for accessibility and real-time communication. I enjoy combining backend logic with frontend polish, and my teaching experience helps me simplify complex concepts.
