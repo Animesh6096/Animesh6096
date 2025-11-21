@@ -53,7 +53,7 @@ A book-swapping platform with Django backend and complete database design (ER/EE
 ---
 
 ### 🎓 Education & Certs
-- 🎓 **BRAC University**, BSc in CSE (3.60 CGPA, graduating Sep 2025)
+- 🎓 **BRAC University**, BSc in CSE (3.54 CGPA, graduating Sep 2025)
 - 📱 **App Development Certification** – Flutter, Dart, Android Studio (Residential Semester)
 - 🤖 **ML A-Z™** – Udemy
 
